@@ -1,0 +1,7 @@
+Credentials cache: API:1762
+        Principal: iel-ferk@1337.MA
+
+  Issued                Expires               Principal
+Jan 30 13:45:45 2019  Jan 30 23:45:45 2019  krbtgt/1337.MA@1337.MA
+Jan 30 13:45:47 2019  Jan 30 23:45:45 2019  ldap/ldap-master.1337.ma@1337.MA
+Jan 30 13:45:47 2019  Jan 30 23:45:45 2019  HTTP/iscsi.1337.ma@1337.MA
